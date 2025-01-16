@@ -1,2 +1,2 @@
 # Basic-Calculator
-Performs basic calculations 
+Performs basic arithmetic calculations 
