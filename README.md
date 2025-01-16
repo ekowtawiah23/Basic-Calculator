@@ -1,2 +1,3 @@
 # Basic-Calculator
-Performs basic arithmetic calculations 
+Performs basic arithmetic 
+1. Addition
